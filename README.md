@@ -1,4 +1,6 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
+## NAME: DEEPAK D
+## REF NO: 25000810
 
 **AIM:**
 
@@ -24,16 +26,15 @@
 
 **CIRCUIT DIAGRAM:**
 
+![WhatsApp Image 2025-12-26 at 21 44 16_b71ceda3](https://github.com/user-attachments/assets/5188ac44-e6be-4b22-a56f-2d9da64f0e17)
 
+![WhatsApp Image 2025-12-26 at 21 44 37_7dc45f6d](https://github.com/user-attachments/assets/abf94fbe-1846-418c-91ab-a9d2bd332cda)
 
+![WhatsApp Image 2025-12-26 at 21 44 56_3b454133](https://github.com/user-attachments/assets/c29fd8f2-3e03-4909-83ce-78b75e4313a2)
 
+![WhatsApp Image 2025-12-26 at 21 45 14_ca962c5a](https://github.com/user-attachments/assets/f4b7e43e-d3e5-46bd-8813-5ff30785c9a3)
 
-
-
-
-
-
-
+V![WhatsApp Image 2025-12-26 at 21 45 41_f9264903](https://github.com/user-attachments/assets/3601664b-e832-422e-8816-2bda27a227e1)
 
 **PROCEDURE:**
 
